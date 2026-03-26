@@ -53,7 +53,7 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=zabbix" alt="zabbix" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg" alt="zabbix" width="40" height="40"/>
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
@@ -74,10 +74,15 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
 
 ---
 
+### 📈 Estatísticas do Luiz no GitHub
+
 <br/>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Luiz-Rodrigues-tech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Rodrigues-tech&show_icons=true&title_color=fff&icon_color=ff2d20&text_color=fff&bg_color=1c1e26&hide_border=true&count_private=true" alt="Estatísticas do Luiz no GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Rodrigues-tech&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=1c1e26&hide_border=true&count_private=true&theme=basic" alt="Estatísticas do Luiz no GitHub" />
 </a>
-<br/>
+<a href="https://github.com/Luiz-Rodrigues-tech">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Rodrigues-tech&layout=compact&langs_count=7&title_color=fff&icon_color=fff&text_color=fff&bg_color=1c1e26&hide_border=true&count_private=true" alt="Linguagens Principais do Luiz" />
+</a>
+</p>
