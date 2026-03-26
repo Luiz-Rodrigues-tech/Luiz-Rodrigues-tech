@@ -53,7 +53,7 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/zabbix.svg" alt="zabbix" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=zabbix" alt="zabbix" width="40" height="40"/>
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
@@ -74,19 +74,10 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
 
 ---
 
-### 📈 Estatísticas do Luiz no GitHub
-
 <br/>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Luiz-Rodrigues-tech">
-  <img src="https://komarev.com/ghpvc/?username=Luiz-Rodrigues-tech&color=ff2d20&style=flat-square&label=PERFIL+VIEWS" alt="Visualizações do Perfil do Luiz" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Rodrigues-tech&show_icons=true&title_color=fff&icon_color=ff2d20&text_color=fff&bg_color=1c1e26&hide_border=true&count_private=true" alt="Estatísticas do Luiz no GitHub" />
 </a>
-</p>
-
-#### 🏆 Meus Top Projetos (VILT Stack)
-Aqui você pode preencher com os links dos seus melhores repositórios!
-
-- [**NOME DO SEU MELHOR PROJETO**](https://github.com/Luiz-Rodrigues-tech/nome-do-repositorio): Descrição curta e objetiva do que o projeto resolve e as tecnologias chave (Laravel, Vue, etc).
-- [**NOME DO SEGUNDO MELHOR PROJETO**](https://github.com/Luiz-Rodrigues-tech/nome-do-segundo-repositorio): Mesma estrutura de descrição profissional.
-- [**NOME DO TERCEIRO MELHOR PROJETO**](https://github.com/Luiz-Rodrigues-tech/nome-do-terceiro-repositorio): Ter uma lista de projetos é o que realmente conta.
+<br/>
