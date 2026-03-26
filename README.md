@@ -68,7 +68,7 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
 - **Resolução de Problemas:** Análise de causa raiz (RCA) e troubleshooting avançado utilizando vivência com suporte técnico N2.
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Me conecte no LinkedIn](https:www.linkedin.com/in/luiz-rodrigues-tech)
+- **LinkedIn:** [Me conecte no LinkedIn](https://www.linkedin.com/in/luiz-rodrigues-tech)
 - **Portfólio:** [Veja meus projetos](https://luiz-rodrigues-tech.github.io/portfolio/#)
 - **E-mail:** [luizhhuu@gmail.com](mailto:luizhhuu@gmail.com)
 
