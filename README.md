@@ -2,38 +2,82 @@
 
 **Full-Stack Developer | Especialista em Laravel & Vue.js**
 
-Sou um desenvolvedor de sistemas apaixonado por construir soluções eficientes, escaláveis e bem estruturadas. Com uma forte base em troubleshooting avançado e infraestrutura, não apenas escrevo código, mas entendo como a aplicação se comporta em produção. Meu foco é entregar APIs performáticas no back-end e interfaces fluidas no front-end.
+Sou um engenheiro de software focado em construir soluções eficientes, escaláveis e bem estruturadas. Com uma forte base em troubleshooting avançado e infraestrutura (Zabbix/Grafana), não apenas escrevo código, mas entendo como a aplicação se comporta em produção. Meu foco é o ecossistema VILT Stack (Vue, Inertia, Laravel, Tailwind).
 
 🌍 *Baseado em Várzea Grande, MT | Aberto a oportunidades remotas.*
 
 ---
 
-### 🛠️ Minha Stack Tecnológica
+### 👨‍💻 Front-end
 
-**Back-end & Banco de Dados**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
-**Front-end**
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### ⚙️ Back-end & Infraestrutura
 
-**Ferramentas & Infraestrutura**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<p align="left">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=zabbix" alt="zabbix" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ### 🚀 O que eu entrego:
-- **APIs RESTful:** Modelagem, desenvolvimento e manutenção de APIs robustas utilizando Laravel e banco de dados relacionais (MySQL/PostgreSQL).
-- **Interfaces Responsivas:** Criação de front-ends modernos e dinâmicos com Vue.js e Tailwind CSS, focando em performance e UX.
-- **Resolução de Problemas Complexos:** Análise de causa raiz (RCA) e correção de bugs ponta a ponta, utilizando minha vivência prévia com suporte técnico N2.
+- **APIs RESTful:** Modelagem, desenvolvimento e manutenção de APIs robustas utilizando Laravel e bancos de dados relacionais.
+- **Interfaces Responsivas:** Criação de front-ends modernos e dinâmicos com Vue.js e Tailwind CSS, focando em performance.
+- **Resolução de Problemas:** Análise de causa raiz (RCA) e troubleshooting avançado utilizando vivência com suporte técnico N2.
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [Me conecte no LinkedIn](https://www.linkedin.com/in/luiz-henrique-da-cruz-rodrigues-a12730235/)
 - **Portfólio:** [Veja meus projetos](https://luiz-rodrigues-tech.github.io/portfolio/#)
-- **E-mail:** luizhhuu@gmail.com
+- **E-mail:** [luizhhuu@gmail.com](mailto:luizhhuu@gmail.com)
+
+---
+
+<br/>
+
+<p align="left">
+<a href="https://github.com/Luiz-Rodrigues-tech">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Rodrigues-tech&show_icons=true&title_color=fff&icon_color=ff2d20&text_color=fff&bg_color=1c1e26&hide_border=true&count_private=true" alt="Estatísticas do Luiz no GitHub" />
+</a>
+<br/>
