@@ -4,8 +4,6 @@
 
 Sou um engenheiro de software focado em construir soluções eficientes, escaláveis e bem estruturadas. Com uma forte base em troubleshooting avançado e infraestrutura (Zabbix/Grafana), não apenas escrevo código, mas entendo como a aplicação se comporta em produção. Meu foco é o ecossistema VILT Stack (Vue, Inertia, Laravel, Tailwind).
 
-🌍 *Baseado em Várzea Grande, MT | Aberto a oportunidades remotas.*
-
 ---
 
 ### 👨‍💻 Front-end
@@ -52,9 +50,6 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=zabbix" alt="zabbix" width="40" height="40"/>
-  </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
   </a>
@@ -74,10 +69,4 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
 
 ---
 
-<br/>
 
-<p align="left">
-<a href="https://github.com/Luiz-Rodrigues-tech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Rodrigues-tech&show_icons=true&title_color=fff&icon_color=ff2d20&text_color=fff&bg_color=1c1e26&hide_border=true&count_private=true" alt="Estatísticas do Luiz no GitHub" />
-</a>
-<br/>
