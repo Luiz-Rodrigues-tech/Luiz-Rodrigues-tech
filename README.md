@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Especialista em Laravel & React Native**
 
-Sou um engenheiro de software focado em construir a ponte perfeita entre lógicas complexas de back-end e experiências fluidas no mobile. Meu foco é o ecossistema TALL Stack e React Native, desenvolvendo produtos digitais de ponta a ponta.
+Sou um engenheiro de software focado em construir a ponte perfeita entre lógicas complexas de back-end e experiências fluidas. Meu foco é o ecossistema TALL Stack e React Native, desenvolvendo produtos digitais de ponta a ponta.
 
 🌍 *Atualmente aberto a oportunidades remotas no Brasil, Espanha e Europa.*
 
@@ -29,6 +29,6 @@ Sou um engenheiro de software focado em construir a ponte perfeita entre lógica
 - **Integração Fluida:** Sincronização de estado impecável entre servidor e cliente (Zustand, React Query).
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Coloque aqui o link do seu LinkedIn]
-- **Portfólio:** [Coloque aqui o link do seu Portfólio atualizado]
-- **E-mail:** [Seu E-mail Profissional]
+- **LinkedIn:** https://www.linkedin.com/in/luiz-henrique-da-cruz-rodrigues-a12730235/
+- **Portfólio:** https://luiz-rodrigues-tech.github.io/portfolio/#
+- **E-mail:** luizhhuu@gmail.com
