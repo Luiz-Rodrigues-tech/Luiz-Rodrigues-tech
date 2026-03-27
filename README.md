@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Henrique!! 
+# Olá, eu sou o Luiz Henrique!
 
 **Full-Stack Developer | Especialista em Laravel & Vue.js**
 
