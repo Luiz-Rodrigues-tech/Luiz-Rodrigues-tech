@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Henrique! 👋
+# Olá, eu sou o Luiz Henrique! 
 
 **Full-Stack Developer | Especialista em Laravel & Vue.js**
 
@@ -6,7 +6,7 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
 
 ---
 
-### 👨‍💻 Front-end
+###  Front-end
 
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -35,7 +35,7 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
   </a>
 </p>
 
-### ⚙️ Back-end & Infraestrutura
+###  Back-end & Infraestrutura
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
@@ -57,12 +57,12 @@ Sou um engenheiro de software focado em construir soluções eficientes, escalá
 
 ---
 
-### 🚀 O que eu entrego:
+###  O que eu entrego:
 - **APIs RESTful:** Modelagem, desenvolvimento e manutenção de APIs robustas utilizando Laravel e bancos de dados relacionais.
 - **Interfaces Responsivas:** Criação de front-ends modernos e dinâmicos com Vue.js e Tailwind CSS, focando em performance.
 - **Resolução de Problemas:** Análise de causa raiz (RCA) e troubleshooting avançado utilizando vivência com suporte técnico N2.
 
-### 📫 Como me encontrar:
+###  Como me encontrar:
 - **LinkedIn:** [Me conecte no LinkedIn](https://www.linkedin.com/in/luiz-rodrigues-tech)
 - **Portfólio:** [Veja meus projetos](https://luiz-rodrigues-tech.github.io/portfolio/#)
 - **E-mail:** [luizhhuu@gmail.com](mailto:luizhhuu@gmail.com)
